@@ -19,4 +19,4 @@ This is Uva Online Judge do Solutions (no very good but it is can accepted)
 * Volume 105 (10500-10599)
   * 10576 - Y2K Accounting Bug (C++) - 2016-07-21 16:24:34
 * Volume 109 (10900-10999)
-  * 10973 - Triangle Counting (C++) -	2016-05-16 10:46:28
+  * 10973 - Triangle Counting (C++, DP) -	2016-05-16 10:46:28
