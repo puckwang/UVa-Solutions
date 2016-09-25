@@ -1,0 +1,10 @@
+**********************************************************
+Network #1
+Cable requirement to connect (11,19) to (4,35) is 33.46 feet.
+Cable requirement to connect (4,35) to (4,146) is 127.00 feet.
+Cable requirement to connect (4,146) to (27,128) is 45.21 feet.
+Cable requirement to connect (27,128) to (65,135) is 54.64 feet.
+Cable requirement to connect (65,135) to (92,142) is 43.89 feet.
+Cable requirement to connect (92,142) to (113,124) is 43.66 feet.
+Cable requirement to connect (113,124) to (136,150) is 50.71 feet.
+Number of feet of cable required is 398.57.
