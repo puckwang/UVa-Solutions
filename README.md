@@ -1,5 +1,5 @@
 # UVa-Solutions
-This is Uva Online Judge do Solutions (no very good but it is can accepted)
+This is Uva Online Judge do Solutions. (no very good but it is can accepted)
 
 ## Index
 * Volume 1 (100-199)
