@@ -1,5 +1,6 @@
 # UVa-Solutions
 This is Uva Online Judge do Solutions. (no very good but it is can accepted)
+My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-halim.net/id/833611)
 
 ## Index
 * Volume 001 (100-199)
@@ -11,6 +12,8 @@ This is Uva Online Judge do Solutions. (no very good but it is can accepted)
   * 336 - A Node Too Far (C++, BFS) - 2016-09-24 18:16:40
 * Volume 004 (400-499)
   * 458 - The Decoder (C++, Char) - 2016-09-27 15:45:06
+  * 476 - Points in Figures Rectangles (C++, Geometry) - 2016-09-27 16:43:29
+  * 477 - Points in Figures Rectangles and Circles (C++, Geometry) - 2016-09-27 16:59:30
   * 481 - What Goes Up (C++, LIS) - 2016-09-25 13:09:33
 * Volume 010 (1000-1099)
   * 1029 - Heliport (None)
@@ -34,3 +37,5 @@ This is Uva Online Judge do Solutions. (no very good but it is can accepted)
   * 12468 - Zapping (C++) - 2016-09-24 20:50:14
 * Volume 126 (12600-12699)
   * 12602 - Nice Licence Plates (C++) - 2016-09-24 20:38:04
+* Volume 131 (13100-13199)
+  * 13131 - Divisors (C++, Math) - 	2016-09-27 17:50:36
