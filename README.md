@@ -48,12 +48,8 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
   * 10041 - Vito's Family `ANSI C` `L2` `Math`
   * 10055 - Hashmat the Brave Warrior `ANSI C` `L1`
 * **Volume 101 (10100-10199)**
-<<<<<<< HEAD
   * 10102 - The path in the colored field `C++``L3``BFS`
   * 10107 - What is the Median`C++` `Math` `L1`
-=======
-  * 10102 - The path in the colored field `C++` `L3` `BFS`
->>>>>>> 150dfa4f20626c7e7120c657b57e7c2d5c50e1cc
 * **Volume 102 (10200-10299)**
   * 10226 - Hardwood Species `C++` `L3` `Map`
 * **Volume 103 (10300-10399)**
