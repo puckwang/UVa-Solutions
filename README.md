@@ -16,6 +16,7 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
   * `LIS`: Longest Increasing Subsequence.
   * `Math`: Mathematics.
   * `Map`: STL Map.
+  * `Stack`: STL Stack.
   * `String`: String.
 * Level of Problem
   * `L1`: This is simple.
@@ -39,8 +40,10 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
   * 481 - What Goes Up `C++` `L3` `LIS`
   * 488 - Triangle Wave `C++` `L1`
   * 494 - Kindergarten Counting Game `C++` `L1` `String`
-* **Volume 5 (500-599)**
+* **Volume 005 (500-599)**
   * 591 - Box of Bricks `C++` `L1`
+* **Volume 6 (600-699)**
+  * 673 - Parentheses Balance `C++` `L2` `Stack`
 * **Volume 010 (1000-1099)**
   * 1029 - Heliport (None)
 * **Volume 100 (10000-10099)**

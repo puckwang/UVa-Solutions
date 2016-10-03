@@ -14,22 +14,11 @@ int main(){
             LTSlen++;
             LTS.push_back(seq[i]);
             posit.push_back(LTS.size()-1);
-        }else if(seq[i] == LTS.back()){
-            posit.push_back(LTS.size()-1);
         }else {
-            bool flag = 0;
-            for(int j = LTS.size()-2; j >= 0; j--){
-                if(seq[i] > LTS[j]){
-                    LTS[j+1] = seq[i];
-                    posit.push_back(j+1);
-                    flag = 1;
-                    break;
-                }
-            }
-            if(flag == 0){
-                LTS[0] = seq[i];
-                posit.push_back(0);
-            }
+            std::vector<int>::iterator tmpPtr;
+            tmpPtr = lower_bound(LTS.begin(), LTS.end(), seq[i]);
+            *tmpPtr = seq[i];
+            posit.push_back(tmpPtr-LTS.begin());
         }
     }
     LTS.clear();
