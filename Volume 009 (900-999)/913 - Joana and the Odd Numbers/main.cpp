@@ -1,9 +1,9 @@
 #include <iostream>
+using namespace std;
 /*
 * Problem: #913 - Joana and the Odd Numbers
 * URL: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=11&page=show_problem&problem=854
 */
-using namespace std;
 int main(){
     long long int n;
     while(cin >> n){

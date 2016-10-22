@@ -18,6 +18,7 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
   * `Map`: STL Map.
   * `Stack`: STL Stack.
   * `String`: String.
+  * `Sort`: About something at sort.
 * Level of Problem
   * `L1`: This is simple.
   * `L2`: Will use the data structure or Mathematics.
@@ -34,6 +35,7 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
 * **Volume 003 (300-399)**
   * 336 - A Node Too Far `C++` `L3` `BFS`
 * **Volume 004 (400-499)**
+  * 417 - Word Index (None)
   * 458 - The Decoder `C++` `L1` `Char`
   * 476 - Points in Figures Rectangles `C++` `L1` `Geometry`
   * 477 - Points in Figures Rectangles and Circles `C++` `L1` `Geometry`
@@ -42,8 +44,10 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
   * 494 - Kindergarten Counting Game `C++` `L1` `String`
 * **Volume 005 (500-599)**
   * 591 - Box of Bricks `C++` `L1`
-* **Volume 6 (600-699)**
+* **Volume 006 (600-699)**
   * 673 - Parentheses Balance `C++` `L2` `Stack`
+* **Volume 009 (900-999)**
+  * 913 - Joana and the Odd Numbers `C++` `L1` `Math`
 * **Volume 010 (1000-1099)**
   * 1029 - Heliport (None)
 * **Volume 100 (10000-10099)**
@@ -60,6 +64,7 @@ My Uva Statistics: [http://uhunt.felix-halim.net/id/833611](http://uhunt.felix-h
 * **Volume 105 (10500-10599)**
   * 10576 - Y2K Accounting Bug `C++` `L1`
 * **Volume 109 (10900-10999)**
+  * 10905 - Children's Game `C++` `L2` `Sort`
   * 10973 - Triangle Counting `C++` `L3` `DP`
 * **Volume 114 (11400-11499)**
   * 11494 - Queen `C++` `L3` `BFS`
